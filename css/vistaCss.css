@@ -1,0 +1,64 @@
+.fondo-imagen{
+    background-image: url('/pasarela/assets/images/fondopasarela.jpg');
+    height: auto;
+    position: relative;
+    background-repeat:round ;
+}
+.img-logo{
+    margin-left:45%;
+    width:70px;
+    height:70px;
+
+}
+.form-pasarela{
+    border-radius: 50px;
+    border:1px solid rgb(255, 255, 255);
+    padding:20px;
+    margin-bottom: 60px;
+    width: 500px;
+    -webkit-box-shadow: 31px 36px 39px -2px rgba(0,0,0,0.6);
+    -moz-box-shadow: 31px 36px 39px -2px rgba(0,0,0,0.6);
+    box-shadow: 31px 36px 39px -2px rgba(0,0,0,0.6);
+
+}
+.div-cabecera{
+    border-radius: 20px;
+    background-color: white;
+    background-image: url('/pasarela/assets/images/fondopasarela2.jpg');
+    background-repeat:round ;
+    height: 50%;
+    margin: 50px;
+    -webkit-box-shadow: 31px 36px 39px -2px rgba(0,0,0,0.6);
+    -moz-box-shadow: 31px 36px 39px -2px rgba(0,0,0,0.6);
+    box-shadow: 31px 36px 39px -2px rgba(0,0,0,0.6);
+    
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+  }
+h1{
+    margin-left:180px;
+    padding: 5px;
+    font-family: 'Libre Baskerville', serif;
+}
+h2{
+    margin-left:40%;
+    font-family: 'Libre Baskerville', serif;
+    color:pink;
+    text-decoration: underline pink;
+    text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F,
+		0 0 0.2em #87F;
+}
+p{
+    font-family: 'Libre Baskerville', serif;
+}
+ul{
+    margin-left: 40%;
+}
+
+h4{
+    font-family: 'Merriweather', serif;
+}
