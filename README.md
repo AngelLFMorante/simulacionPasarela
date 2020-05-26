@@ -2,6 +2,7 @@ Simulación de pasarela de pago
 ==============================
 
 Este es un script simple para completar un ejercicio de programación.
+Recogido en unos ejercicios en clase y modificado para la creación del proyecto fin de grado
 
 ## Instrucciones:
 
